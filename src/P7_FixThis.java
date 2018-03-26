@@ -1,16 +1,14 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Matthew Shelby
+	Date: 3/25/2018
 */
 
 /*
  7. After you fixed the error, why is this an error? Note: do not just repeat Eclipse's error message,
  why did Eclipse have that error message?
- 
- 
- 
- */
+ I never received an error message. This program seemed to run correctly and display the proper image from first time I pulled it up.
+*/
 
 public class P7_FixThis {
 
